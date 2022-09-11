@@ -2,12 +2,12 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://danilocaro.com">Danilo Caro</a></b>.
-    <br>I'm Software Engineer - Frontend Developer From Colombia.<br>
+    <br>I'm Software Engineer - Frontend Developer From Colombia.<br><br>
 
 </samp>
 
-<img width="200px" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" />
-
+<img src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="400"/>
+  
 </p>
 <p align="center">
 <a href="https://github.com/AVS1508">
